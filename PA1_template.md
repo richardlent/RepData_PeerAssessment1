@@ -1,14 +1,6 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: Richard A. Lent
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
+Richard A. Lent  
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Loading and preprocessing the data
 
